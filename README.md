@@ -34,17 +34,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" height="40" alt="tools" />
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-| <img src="https://github-readme-stats.vercel.app/api?username=Sneh5405&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="180" alt="stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneh5405&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="180" alt="languages" /> |
-| :-: | :-: |
-
-</div>
-
 <br/>
 
 <div align="center">
@@ -59,7 +48,7 @@
 <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:gondaliyas2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://twitter.com/your-twitter-id" target="_blank">
