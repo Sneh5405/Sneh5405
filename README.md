@@ -45,7 +45,7 @@
 ### 📬 Connect with Me
 
 <div align="center">
-<a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+<a href="https://www.linkedin.com/in/sneh-gondaliya-9982bb2b7/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:gondaliyas2005@gmail.com">
